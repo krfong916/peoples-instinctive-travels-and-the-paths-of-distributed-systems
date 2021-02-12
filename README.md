@@ -5,7 +5,7 @@ This is a repo for distributed systems. It contains my notes, reviews, and proje
 ## Contributing
 
 Still in the process of thinking how I'd like people to contribute/collaborate to this repo.
-If you have ideas, shoot me an [email 📧](mailto:krfong@ucsc.edu?subject=[Distributed-Systems-Repo]%20Source%20Han%20Sans)
+If you have ideas, shoot me an [email 📧](mailto:krfong@ucsc.edu?subject=[Distributed-Systems-Repo])
 
 ## Credits
 
