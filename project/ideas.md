@@ -1,6 +1,7 @@
 # Project Ideas
 
-- Idempotency Library
+- Thinking about objects and their lifetime. Can we pass objects with their context how of how to resolve conflicts independent of processor?
+- Reorder and replace emphasis on actors within a system or computing model and question from there, also think of the fundamental things we do in computing and systems - what would happen if...?
 - Go with what is the coolest to you
 
 ## 6.824 ideas
