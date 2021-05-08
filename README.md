@@ -12,7 +12,8 @@ Here are a few interesting thoughts:
 
 - Implement the flavors of Paxos and use Jepsen testing framework
 - Belief States and Formal Verification of a program... with energy grid and mission critical applications
-- Consensus implementations under the Byzantine Fault Model
+- Consensus protocol implementations under the Byzantine Fault Model
+- Rust implementation of e2e encryption protocol
 
 If you have ideas, shoot me an [email 📧](mailto:krfong@ucsc.edu?subject=[Distributed-Systems-Repo])
 
