@@ -11,7 +11,8 @@ Still in the process of thinking how I'd like people to contribute/collaborate t
 Here are a few interesting thoughts:
 
 - Implement the flavors of Paxos and use Jepsen testing framework + Open-Loop testing environment w/injection of partial network failures
-- Secure document storage with an e2e encryption protocol, X3DH, something by way of Signal and WhatsApp but further
+- Reimplement Professor Kuper's paper "Verifying Replicated Datatypes with Typeclass Refinements in Liquid Haskell" but in Liquid Rust
+- Secure document storage with an e2e encryption protocol, X3DH, something by way of Signal and WhatsApp, with ABAC architecture. Abstract to a framework.
 - Create a SAT solver from scratch
 
 If you have ideas, shoot me an [email 📧](mailto:krfong@ucsc.edu?subject=[Distributed-Systems-Repo])
